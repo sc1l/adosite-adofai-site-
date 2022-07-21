@@ -16,13 +16,3 @@ by sjchoi10000
 <p style="text-align:center">Working on progess lol</p>
 # adosite link
 https://adomap.netlify.app/
-
-
-
-
-preview
-<p style="text-align:center"><img alt="Welcome! (image not loaded)" src="https://raw.githubusercontent.com/sjchoi10000/adosite-adofai-site-/97d8359d926e4c4c29428ad4d5e78e780ed4ce28/welcome.png" /></p>
-
-<p style="text-align:center">Working on progess lol</p>
-
-<p style="text-align:center">만드는중 ㅋㅋ</p>
